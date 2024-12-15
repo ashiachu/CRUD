@@ -8,7 +8,7 @@ Add Product: A button to add a product to the cart.
 Delete Product: A button to delete a product from the cart.
 Total Price Calculation: The application calculates the total price of each product based on the quantity and price.
 Getting Started
-Clone the repository using git clone https://github.com/your-username/shopping-cart.git
+Clone the repository using git clone https://github.com/ashiachu/CRUD.git
 Open the index.html file in a web browser to view the application.
 Fill in the product details in the form and click the "Add Product" button to add a product to the cart.
 View the cart contents in the product table.
